@@ -1,0 +1,14 @@
+---
+section: use
+title: 경제적인 효율성 서비스를 사용합니다
+entries:
+- title: 용량 문제 검토 및 해결
+  url: "/use/capacity-remediate-overview.html"
+- title: 용량 상태를 검토합니다
+  url: "/use/capacity-review-status.html"
+- title: 용량 추가
+  url: "/use/capacity-add.html"
+- title: 클라우드 스토리지에 콜드 데이터 계층화
+  url: "/use/capacity-tier-data.html"
+- title: 다시 확인하도록 미리 알림을 설정합니다
+  url: "/use/capacity-reminders.html"

@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: 경제 효율성 서비스는 예상 데이터 증가율을 기준으로 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 예상 용량 증가를 충족하는 권장 사항을 제시하며 자산 구성에 가장 적합합니다. 용량 여유 공간을 확보하기 위해 콜드 데이터를 클라우드 스토리지에 계층화하도록 권장한 것 중 하나가 될 수 있습니다. 이 권장 사항으로 인해 다른 BlueXP 서비스인 NetApp Cloud Tiering에 연결이 시작됩니다. 
+---
+= 콜드 데이터를 클라우드 스토리지에 계층화하여 스토리지를 확보하십시오
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+경제 효율성 서비스는 예상 데이터 증가율을 기준으로 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 예상 용량 증가를 충족하는 권장 사항을 제시하며 자산 구성에 가장 적합합니다. 용량 여유 공간을 확보하기 위해 콜드 데이터를 클라우드 스토리지에 계층화하도록 권장한 것 중 하나가 될 수 있습니다. 이 권장 사항으로 인해 다른 BlueXP 서비스인 NetApp Cloud Tiering에 연결이 시작됩니다.
+
+데이터를 계층화하면 다른 시스템에 조치를 취하기 위해 경제 효율성 서비스로 쉽게 돌아갈 수 있습니다.
+
+클라우드 계층화 프로세스에는 다음과 같은 프로세스가 포함됩니다.
+
+* 커넥터를 배포합니다
+* 클러스터를 검색합니다
+* 클라우드에 계층화 설정
+
+
+.단계
+. BlueXP 왼쪽 탐색 창에서 * Governance * > * Economic Efficiency * > * Capacity Planning * 을 선택합니다.
+. 자산에 대해 * 스토리지 옵션 평가 * 를 선택합니다.
+. 계층 콜드 데이터 * 를 선택합니다.
+. 다음 단계는 BlueXP Connector가 이미 배포되어 있고 클러스터가 검색되었는지 여부에 따라 달라집니다.
++
+** BlueXP 커넥터를 배포해야 하는 경우 에 설명된 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["커넥터를 만드는 방법"]. 그렇지 않으면 이미 커넥터를 배포한 경우에는 커넥터를 배포하는 옵션이 나타나지 않습니다.
+** 서비스에서 클러스터를 검색해야 하는 경우 를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["사내 ONTAP 클러스터에 대해 알아보십시오"]. 그렇지 않으면 클러스터가 이미 검색되면 클러스터를 검색하는 옵션이 표시되지 않습니다.
+
+
++
+경제적인 효율성 서비스를 통해 또 다른 NetApp BlueXP 서비스인 Cloud Tiering 서비스에 연결할 수 있습니다.
+
+. 커넥터 추가 * 를 선택합니다.
+. 클라우드 공급자를 선택하고 * 계속 * 을 선택합니다.
+. Continue * 또는 * Skip to Deployment * 를 선택합니다.
++
+Connector를 구축한 후 BlueXP Cloud Tiering은 아직 검색되지 않은 클러스터를 검색합니다.
+
+. 클러스터가 검색되면 계층화를 설정합니다.
++
+계층화에 대한 자세한 내용은 을 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Cloud Tiering 서비스 설명서"^].
+
+

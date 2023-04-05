@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: '경제적인 효율성 서비스는 현재 또는 예상되는 낮은 용량의 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.' 
+summary: '경제적인 효율성 서비스는 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.' 
 ---
 = 새로운 기능
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: '경제적인 효율성 서비스는 현재 또는 예상되는 낮은 
 
 
 [role="lead"]
-경제 효율성 서비스의 새로운 기능에 대해 알아보십시오.
+경제적 효율성 서비스의 새로운 기능에 대해 알아보십시오.
 
 
 

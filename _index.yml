@@ -1,14 +1,14 @@
 ---
 indexpage:
-  lead: 용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. NetApp BlueXP 경제적 효율성 서비스는
+  lead: 용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. NetApp BlueXP의 경제적 효율성 서비스는
     낮은 용량을 보이는 클러스터를 식별하고, 현재 및 예상 용량에 대한 클러스터를 검토하고, CPU 활용률, IOPS 성능 및 지연 시간 성능을
-    검토하여 용량 개선 기회를 파악할 수 있도록 지원합니다.
+    검토하여 용량 개선 기회를 결정할 수 있도록 지원합니다.
   tiles:
   - title: 시작하십시오
     links:
-    - title: 경제적 효율성 서비스에 대해 알아보십시오
+    - title: 경제적인 효율성 서비스에 대해 알아보십시오
       url: "/get-started/intro.html"
-    - title: 경제 효율성 서비스의 새로운 기능
+    - title: 경제적 효율성 서비스의 새로운 기능
       url: "/release-notes/whats-new.html"
     - title: 빠른 시작
       url: "/get-started/quick-start.html"

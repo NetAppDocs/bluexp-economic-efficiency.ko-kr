@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in 
-summary: BlueXP의 서비스에 액세스하여 경제 효율성 서비스를 시작하십시오. 
+summary: BlueXP의 서비스에 액세스하여 경제적인 효율성 서비스를 시작하십시오. 
 ---
 = BlueXP의 경제적 효율성 서비스에 액세스합니다
 :hardbreaks:

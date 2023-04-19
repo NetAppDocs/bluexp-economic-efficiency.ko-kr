@@ -4,7 +4,7 @@ permalink: get-started/prerequisites.html
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
 summary: 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP의 경제적 효율성을 높이십시오. 
 ---
-= 경제 효율성 전제 조건
+= BlueXP 경제적 효율성 전제 조건
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -14,7 +14,7 @@ summary: 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대�
 [role="lead"]
 운영 환경, 로그인, 네트워크 액세스 및 웹 브라우저의 준비 상태를 확인하여 시작하십시오.
 
-경제적 효율성 서비스를 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.
+Blue 경제적 효율성을 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.
 
 * 사용자 환경은 웹 브라우저에서 로그인 및 네트워크 액세스를 포함한 모든 BlueXP 요구 사항을 충족해야 합니다.
 +

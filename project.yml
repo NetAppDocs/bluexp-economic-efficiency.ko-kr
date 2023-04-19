@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Economic efficiency
+  name: BlueXP economic efficiency
   platform: cloud
   internal:
     pdf_enabled: true
@@ -10,7 +10,7 @@ settings:
   langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw,de-de,es-es,fr-fr
 sidebar:
   entries:
-  - title: 경제 효율성 문서
+  - title: BlueXP 경제적 효율성 문서
     url: "/index.html"
   - section: release-notes
   - section: get-started

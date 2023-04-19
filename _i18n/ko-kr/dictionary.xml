@@ -27,12 +27,6 @@
   <block id="fbb1f938c9f1ccb40c31c54f15fc89ea" category="list-text">BlueXP 왼쪽 탐색 창에서 * Governance * &gt; * Economic Efficiency * &gt; * Capacity Planning * 을 선택합니다.</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">자산에 대해 * 스토리지 옵션 평가 * 를 선택합니다.</block>
   <block id="393020d67c4695c30e4112c74946b74b" category="list-text">다음 옵션 중 하나를 선택합니다.</block>
-  <block id="7335b11b786b6697e0a94395a15a199e" category="inline-link-macro">용량 추가</block>
-  <block id="6bfca54d4928d14a8eacc27f2b69ffaf" category="list-text">* 용량 추가 *: 계속 <block ref="c66ba59a324e8043bd3a8207394d4701" category="inline-link-macro-rx"></block>.</block>
-  <block id="8ba002b9312f94164aa11f2c3a1f58fb" category="inline-link-macro">콜드 데이터를 클라우드 스토리지에 계층화하고 스토리지를 확보하십시오</block>
-  <block id="bd9fba5131fe31e90bfebbe0a6d1fbc4" category="list-text">* 계층 콜드 데이터 *: 계속 <block ref="9cc0dcfcd75c3218b5d225e3ae2afe53" category="inline-link-macro-rx"></block>.</block>
-  <block id="e9f46f0dabd9b0a7cb1c344012680279" category="inline-link-macro">작업 없음 선택 및 다시 확인할 알림 설정</block>
-  <block id="40bc28714e5ee6178cf9bc098160d023" category="list-text">* 필요한 조치 없음 *: 계속 <block ref="8a3dfb7bd904e33c9fbc3c16fc228e01" category="inline-link-macro-rx"></block>.</block>
   <block id="dbaae314ffc8b46919877d02b85696cb" category="doc">용량 추가</block>
   <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">권장 사항 중 하나는 기존 일련 번호에 쉘프를 추가하여 용량을 추가하는 것입니다.</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">NetApp 세일즈 팀에 견적 요청 또는 대체 옵션 요청을 위해 권장사항을 쉽게 제출할 수 있습니다.</block>
@@ -71,10 +65,7 @@
   <block id="fc76487e321b8bd0278a190f0b8bd401" category="list-text">커넥터 추가 * 를 선택합니다.</block>
   <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">클라우드 공급자를 선택하고 * 계속 * 을 선택합니다.</block>
   <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">Continue * 또는 * Skip to Deployment * 를 선택합니다.</block>
-  <block id="61e2d8f8a13d1a8a1a315cc91c04f53e" category="paragraph">Connector를 구축한 후 BlueXP Cloud Tiering은 아직 검색되지 않은 클러스터를 검색합니다.</block>
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">클러스터가 검색되면 계층화를 설정합니다.</block>
-  <block id="e8c45e24f90fcbcfaa33ff75b0bfe821" category="inline-link">Cloud Tiering 서비스 설명서</block>
-  <block id="d97763a1946e823afaeeecfb5ddaec5d" category="paragraph">계층화에 대한 자세한 내용은 을 참조하십시오<block ref="281045bf39d451d51f0c3533bb2a2073" category="inline-link-rx"></block>.</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">용량 또는 계층 콜드 데이터를 추가하는 대신, 지금은 아무런 조치도 필요하지 않으며, 30일, 60일 또는 90일 후에 다시 확인하도록 미리 알림을 설정할 수 있습니다.</block>
   <block id="3244b6844658e5e33144f6b7eae011e7" category="doc">다시 확인하도록 미리 알림을 설정합니다</block>
   <block id="cdd7417e4a2578a1e8718f7130de6a7d" category="list-text">작업 필요 없음 * 을 선택합니다.</block>
@@ -82,8 +73,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">저장 * 을 선택합니다.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">이 시간이 경과되면 위험 목록에 위험이 다시 나타납니다.</block>
-  <block id="0a0860e9870b3d9fd1d712f2215ee3c8" category="doc">경제적인 효율성 서비스</block>
-  <block id="4386eb2b71427fcf0dcb5cf90640a361" category="doc">경제 효율성 전제 조건</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">운영 환경, 로그인, 네트워크 액세스 및 웹 브라우저의 준비 상태를 확인하여 시작하십시오.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">사용자 환경은 웹 브라우저에서 로그인 및 네트워크 액세스를 포함한 모든 BlueXP 요구 사항을 충족해야 합니다.</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">클러스터에 대한 액세스 자격 증명이 있어야 합니다.</block>
@@ -98,14 +87,12 @@
   <block id="60766643470eca71a0ef352b62e0a838" category="paragraph"><block ref="6ae54feb46cd36301fb1386a964f0be6" category="inline-link-macro-rx"></block>.</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">세 가지</block>
   <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> 다음 단계</block>
-  <block id="19ceaf81f50456bdfe6fb1329956f3bc" category="paragraph">서비스 설정을 마치면 다음 작업을 수행할 수 있습니다.</block>
   <block id="ca8a749c1fbfddafb4179c330f1f70b6" category="list-text"><block ref="a331806f2b2936676e36463aed0c2570" category="inline-link-macro-rx"></block>.</block>
   <block id="4dda7928bb232067460dae014f5d3c19" category="list-text"><block ref="3cb1671078737d4ecd8aac6c0e87e9e1" category="inline-link-macro-rx"></block>.</block>
   <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">콜드 데이터를 클라우드 스토리지에 계층화하여 스토리지 확보</block>
   <block id="37b482b6cc26ff8a32f155b4aebfe936" category="list-text"><block ref="c4c4008903c7bf31faac3cec39c9af2b" category="inline-link-macro-rx"></block>.</block>
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">필요에 따라 다시 확인하도록 미리 알림을 설정합니다</block>
   <block id="a2e5f6092d9ac64bb72c17d7c802989e" category="list-text"><block ref="13cddad928a54274073f8e0ed02030a0" category="inline-link-macro-rx"></block>.</block>
-  <block id="be0b6ed69c50cea3a8eb8459821a798d" category="summary">용량 계획 서비스는 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">CPU 활용률, IOPS 성능, 지연 시간 성능을 검토하여 용량 개선 기회를 결정합니다.</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">서비스는 * Governance * 범주의 BlueXP에서 액세스할 수 있습니다.</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">추가 용량을 얻기 위한 간단한 프로세스를 제공합니다</block>
@@ -125,7 +112,6 @@
   <block id="90663bb87b6bec4a92a7b1f0dc5b480d" category="list-text">검토 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 환경을 준비합니다.</block>
   <block id="1835d0517fe4ffa8b6a639fa95e369ad" category="list-text">BlueXP에서 커넥터를 만듭니다.</block>
   <block id="e676f0c089390ef0b70aea9845c97efa" category="list-text">BlueXP에서 클러스터를 검색합니다.</block>
-  <block id="01688a0e15dc71e56383e08c45b474a3" category="paragraph">마찬가지로, BlueXP를 사용하거나 위험 개선 프로세스 중에 클러스터를 미리 검색할 수 있습니다.</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">BlueXP에서 커넥터를 만듭니다</block>
   <block id="0e13adbff2b342064a892a15607f1d16" category="paragraph">BlueXP Connector에는 NetApp ONTAP 시스템에 대한 자격 증명이 포함되어 있습니다.</block>
   <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">커넥터를 만드는 방법</block>
@@ -288,12 +274,9 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">제한 사항</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">새로운 기능</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023년 4월 2일</block>
-  <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">이 새로운 서비스에 대해 자세히 알아보십시오</block>
-  <block id="38532dd1586dac78ea99ce1216e1f352" category="paragraph"><block ref="6e51c6b9ced37d3ad7414d5e4d1ac63a" category="inline-link-macro-rx"></block>.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">빠른 시작</block>
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">필수 구성 요소</block>
-  <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">BlueXP에서 서비스에 로그인합니다</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ 를 참조하십시오</block>
   <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="sidebar">용량 상태를 검토합니다</block>
   <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">클라우드 스토리지에 콜드 데이터 계층화</block>
@@ -301,9 +284,7 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
   <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">Cloud Tiering 블로그</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">클라우드 웨비나</block>
-  <block id="7d961289586c23e5fb903ed21636bcc8" category="sidebar">경제 효율성 문서</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
-  <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">BlueXP에서 서비스에 액세스합니다</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식 및 지원</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
@@ -318,45 +299,64 @@
   <block id="fbd53e396987285cf235247a34844e9e" category="summary">현재 클러스터가 70% 용량 임계값 아래로 떨어질 것으로 예상되거나 그 아래로 떨어질 경우, 경제 효율성 서비스에서 해당 클러스터를 저용량 리소스로 식별하고 경고를 표시합니다.</block>
   <block id="a53148ee8712975fc57be46589bc8da7" category="summary">경제적인 효율성 서비스는 예상되는 데이터 증가에 따라 AFF 시스템에 대한 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 용량 증가 예측을 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.</block>
   <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">NetApp BlueXP 경제적 효율성 용량 계획 서비스에서는 AI를 사용하여 데이터 증가를 예측하여 계획 프로세스에 도움을 줍니다.</block>
-  <block id="41da446d1155100dfeb1aed1576bf390" category="paragraph">용량 계획에는 현재 및 예측 가능한 환경에서 저용량 영역을 식별하는 작업이 포함됩니다. NetApp BlueXP 경제적 효율성 서비스는 AI를 사용하여 데이터 증가를 예측함으로써 계획 프로세스를 지원합니다. 경제 효율성 서비스는 고객의 환경에서 저용량 영역을 식별하고 문제 해결 방법에 대한 권장 사항을 제공합니다.</block>
-  <block id="0a4a0858eb93014667524a512d567db2" category="paragraph">경제적 효율성 서비스를 사용하면 다음과 같은 목표를 달성할 수 있습니다.</block>
-  <block id="afb34d950bc4701e1ca377043626dd7f" category="summary">경제 효율성 서비스는 예상 데이터 증가율을 기준으로 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 예상 용량 증가를 충족하는 권장 사항을 제시하며 자산 구성에 가장 적합합니다. 용량 여유 공간을 확보하기 위해 콜드 데이터를 클라우드 스토리지에 계층화하도록 권장한 것 중 하나가 될 수 있습니다. 이 권장 사항으로 인해 다른 BlueXP 서비스인 NetApp Cloud Tiering에 연결이 시작됩니다.</block>
-  <block id="43a88d3acb500eacf8827be889290b78" category="paragraph">데이터를 계층화하여 경제 효율성 서비스로 쉽게 되돌아가 다른 시스템에 대한 조치를 취할 수 있습니다.</block>
-  <block id="17059fe74360229e879a759843201d70" category="paragraph">경제적인 효율성 서비스를 통해 또 다른 NetApp BlueXP 서비스인 Cloud Tiering 서비스에 연결할 수 있습니다.</block>
-  <block id="8fea032899ecd07fc90802e814c217b4" category="summary">용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. NetApp BlueXP의 경제적 효율성 서비스는 낮은 용량을 보이는 클러스터를 식별하고, 현재 및 예상 용량에 대한 클러스터를 검토하고, CPU 활용률, IOPS 성능 및 지연 시간 성능을 검토하여 용량 개선 기회를 결정할 수 있도록 지원합니다.</block>
-  <block id="ab64efe8ea6517b4d4f5995878949be8" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP의 경제적 효율성을 높이십시오.</block>
-  <block id="e15b5e0d1a3f0c5ba311a07635b7e217" category="paragraph">경제적 효율성 서비스를 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
   <block id="501089da83496a12da7846c949b29a52" category="summary">NetApp BlueXP의 경제적 효율성 서비스를 몇 가지 단계로 시작하십시오.</block>
-  <block id="f67a49063476dac82e6bea21e4339573" category="doc">경제적인 효율성 서비스를 위한 빠른 시작</block>
-  <block id="b22b3b0df44e737562c6641ace27c49b" category="paragraph">NetApp BlueXP의 경제적 효율성 서비스를 시작하는 데 필요한 단계에 대한 개요가 나와 있습니다. 각 단계의 링크를 클릭하면 자세한 내용을 제공하는 페이지로 이동합니다.</block>
   <block id="aaa9c54233f5e7b76837549c4c1bbc28" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 경제적인 효율성 서비스를 설정합니다</block>
-  <block id="2d6fa3cc18d11dd7de03378659737f52" category="doc">경제적인 효율성 서비스에 대해 알아보십시오</block>
-  <block id="2ded2a84885e7c50040c1fe60311f4b3" category="paragraph">용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. NetApp BlueXP의 경제적 효율성 서비스는 다음과 같은 목표를 달성하는 데 도움을 줄 수 있습니다.</block>
-  <block id="b2b088cef491a4f1c797cf1b3e120387" category="paragraph">경제적인 효율성 서비스는 사내 AFF 시스템에만 적용됩니다(유니파이드 AFF 및 모든 SAN 어레이 시스템 포함).</block>
-  <block id="942ba0f6ea6d830dd4fd89a3a73e6f67" category="section-title">경제적인 효율성 서비스의 이점</block>
-  <block id="54a0de45d377bd0d1d4a56763b979d36" category="paragraph">경제적인 효율성 서비스는 다음과 같은 이점을 제공합니다.</block>
-  <block id="0df5c13966c618a22fbba4fb040d381a" category="doc">경제 효율성 서비스에 대한 질문과 대답</block>
-  <block id="88804581e6ce821aa2b70464105e11f8" category="section-title">경제적인 효율성 서비스에 대한 액세스</block>
   <block id="ab56773ec54d1f5da941c2a5911ab633" category="paragraph">* BlueXP 경제적 효율성 URL은 무엇입니까? *</block>
-  <block id="1dc7bcd22f2ba6af88f86d6438c4cfbf" category="paragraph">* 경제적 효율성 서비스를 사용하려면 라이센스가 필요합니까? *</block>
-  <block id="0219b3ff65cf0d583bb7e8912368a1a7" category="summary">BlueXP의 서비스에 액세스하여 경제적인 효율성 서비스를 시작하십시오.</block>
-  <block id="6ff6f7363eac188c813717945e80f242" category="doc">BlueXP의 경제적 효율성 서비스에 액세스합니다</block>
   <block id="e4ceda68ed2ad1c8b6de4d9499487b31" category="paragraph">NetApp BlueXP를 사용하여 경제 효율성 서비스에 로그인할 수 있습니다.</block>
-  <block id="0abe2c8bae7cad710a4ad886e3ee0d0a" category="summary">경제적 효율성 서비스를 사용하려면 몇 가지 단계를 수행하여 설정합니다.</block>
-  <block id="3088e97bad860ce6779b76a124c78ae0" category="doc">경제적인 효율성 서비스를 설정합니다</block>
-  <block id="07089c4727f83059c9b5e357d73e88a2" category="paragraph">BlueXP에서 직접 커넥터를 생성하고 나중에 경제적인 효율성 서비스에서 해당 커넥터를 사용할 수 있습니다. 또는 위험 개선 프로세스 중에 커넥터를 생성할 수 있습니다.</block>
-  <block id="5e7b046dc9daacb3eb94996563205d67" category="paragraph">경제적 효율성 서비스의 새로운 기능에 대해 알아보십시오.</block>
-  <block id="0d444fc1d4812b98559f9cc39f5fd31f" category="sidebar">경제적 효율성 서비스의 새로운 기능</block>
-  <block id="13a808531c1289bcc88bebc003bfcc72" category="sidebar">경제적인 효율성 서비스를 사용합니다</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 빠른 시작</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 네트워킹 정보</block>
   <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">을 참조하십시오<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> 및<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>.</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">사용 중인 환경에서 용량이 낮은 스토리지 자산을 식별합니다.</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">현재 및 예상 용량에 대한 자산을 검토합니다.</block>
-  <block id="f159f78afb33cd3b638e662d13fefec3" category="paragraph">경제적인 효율성 서비스는 현재 또는 예상 용량이 낮은 스토리지 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다. 용량 추가를 선택하면 세부 권장사항이 포함된 요청이 귀사와 NetApp 담당자에게 전달됩니다. 이 요청에는 용량 선택 및 주문 요청을 쉽게 하는 데 필요한 세부 정보가 포함됩니다.</block>
-  <block id="2e8c046d8aec606e517b6de07b22bf49" category="summary">경제적인 효율성 서비스는 현재 또는 예상 용량이 낮은 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.</block>
-  <block id="b0d4aa7122dfc7ff627e44c134e7141e" category="paragraph">새로운 경제 효율성 서비스는 현재 또는 예상되는 낮은 용량의 스토리지 자산을 식별하고 데이터 계층화에 대한 권장 사항이나 사내 AFF 시스템의 추가 용량을 제공합니다.</block>
-  <block id="5fc41c74d95e1bc5b0a12c9e265580be" category="paragraph">경제 효율성 서비스는 예상 데이터 증가율을 기준으로 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 예상 용량 증가를 충족하는 권장 사항을 제시하고 스토리지 자산 구성에 가장 적합합니다. 용량 여유 공간을 확보하기 위해 콜드 데이터를 클라우드 스토리지에 계층화하도록 권장한 것 중 하나가 될 수 있습니다. 이 권장 사항으로 인해 다른 BlueXP 서비스인 NetApp Cloud Tiering에 연결이 시작됩니다.</block>
-  <block id="c65db45c5a58142850a4dc71835badf6" category="paragraph">현재 환경의 스토리지 자산이 970% 용량 임계값 미만이거나 이를 초과할 것으로 예측되는 경우, 경제적인 효율성 서비스를 통해 해당 자산을 저용량 리소스로 식별하여 사용자에게 알립니다. 또한 경제적 효율성 서비스는 데이터를 계층화할지 또는 추가 용량을 확보해야 하는지에 대한 권장 사항을 제공합니다.</block>
+  <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. BlueXP의 경제적 효율성은 낮은 용량을 보이는 클러스터를 식별하고, 현재 및 예상 용량에 대한 클러스터를 검토하고, CPU 활용률, IOPS 성능 및 지연 시간 성능을 검토하여 용량 개선 기회를 파악하는 데 도움이 됩니다.</block>
+  <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP의 경제적 효율성</block>
+  <block id="7372cb38b352714605614895b4902bd6" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP의 경제적 효율성을 높이십시오.</block>
+  <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP 경제적 효율성 전제 조건</block>
+  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">Blue 경제적 효율성을 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
+  <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">BlueXP의 서비스에 액세스하여 BlueXP의 경제적 효율성을 시작하십시오.</block>
+  <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">BlueXP의 경제적 효율성에 액세스합니다</block>
+  <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP 경제적 효율성 서비스는 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.</block>
+  <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">BlueXP의 경제적 효율성에 대해 알아보십시오</block>
+  <block id="4174e7acaa0d2a79ceca6bdc82e5321c" category="paragraph">용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. BlueXP의 경제적 효율성은 다음 목표를 달성하는 데 도움이 됩니다.</block>
+  <block id="a83631a3d8ab10baf32d9bd94cb9b5d3" category="paragraph">BlueXP의 경제적 효율성은 현재 또는 예상되는 낮은 용량의 스토리지 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다. 용량 추가를 선택하면 세부 권장사항이 포함된 요청이 귀사와 NetApp 담당자에게 전달됩니다. 이 요청에는 용량 선택 및 주문 요청을 쉽게 하는 데 필요한 세부 정보가 포함됩니다.</block>
+  <block id="606b72f9a7450d39e6e110c4edcdbd88" category="paragraph">BlueXP의 경제적 효율성은 사내 AFF 시스템에만 적용됩니다(통합 AFF 및 모든 SAN 어레이 시스템 포함).</block>
+  <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">BlueXP 경제적 효율성의 이점</block>
+  <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">BlueXP의 경제적 효율성은 다음과 같은 이점을 제공합니다.</block>
+  <block id="b7ec73ab5a17a83ab2fe26bc232073c2" category="summary">BlueXP의 경제적 효율성을 사용하려면 몇 가지 단계를 수행하여 설정합니다.</block>
+  <block id="3c3457659be71e581c1a88bdaf9cbdcd" category="doc">BlueXP의 경제적 효율성을 설정합니다</block>
+  <block id="c76e8df73df2a4958416b2c5c7eb3432" category="paragraph">BlueXP에서 직접 커넥터를 생성하고 나중에 BlueXP의 경제적 효율에서 해당 커넥터를 사용할 수 있습니다. 또는 용량 수정 프로세스 중에 Connector를 생성할 수 있습니다.</block>
+  <block id="21f0b443c05de24878feaa5358224e29" category="paragraph">마찬가지로, BlueXP를 사용하거나 용량 개선 프로세스 중에 클러스터를 미리 검색할 수 있습니다.</block>
+  <block id="f27ce016259562ba8cd33e55e719a92e" category="doc">BlueXP의 경제적 효율성을 빠르게 시작할 수 있습니다</block>
+  <block id="c2b40c93f214d1f116185f61e51a626c" category="paragraph">다음은 BlueXP의 경제적 효율성을 시작하는 데 필요한 단계에 대한 개요입니다. 각 단계의 링크를 클릭하면 자세한 내용을 제공하는 페이지로 이동합니다.</block>
+  <block id="0d5e44db30a371573d3409dc5db80551" category="paragraph">서비스를 설정한 후 수행할 수 있는 작업은 다음과 같습니다.</block>
+  <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">BlueXP의 경제적 효율성에 대해 자주 묻는 질문(FAQ</block>
+  <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">BlueXP의 경제적 효율성 이용</block>
+  <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">* BlueXP의 경제적 효율성을 사용하려면 라이센스가 필요합니까? *</block>
+  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXP의 경제적 효율성은 현재 또는 예상되는 낮은 용량의 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.</block>
+  <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">BlueXP의 새로운 경제 효율성에 대해 알아보십시오.</block>
+  <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">새로운 BlueXP 경제적 효율성 서비스는 현재 또는 예상되는 낮은 용량의 스토리지 자산을 식별하고 사내 AFF 시스템의 데이터 계층화 또는 추가 용량에 대한 권장 사항을 제공합니다.</block>
+  <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">BlueXP의 경제적 효율성에 대해 자세히 알아보십시오</block>
+  <block id="838d01d8bf08e23ff670a400ad2cb368" category="paragraph"><block ref="c4b58b1c24fbcd13ec6df8ee9e6c3a23" category="inline-link-macro-rx"></block>.</block>
+  <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">BlueXP의 경제적 효율성은 예상 데이터 증가율을 기준으로 AFF 시스템에 대한 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 용량 증가 예측을 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.</block>
+  <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">용량 계획에는 현재 및 예측 가능한 환경에서 저용량 영역을 식별하는 작업이 포함됩니다. BlueXP의 경제적 효율성은 AI를 사용하여 데이터 증가를 예측함으로써 계획 프로세스에 도움을 줍니다. 경제 효율성 서비스는 고객의 환경에서 저용량 영역을 식별하고 문제 해결 방법에 대한 권장 사항을 제공합니다.</block>
+  <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">BlueXP의 경제적 효율성을 통해 다음과 같은 목표를 달성할 수 있습니다.</block>
+  <block id="2b787d5a3ddc4d29ecaec24185257f94" category="summary">BlueXP 경제적 효율성 서비스는 예상 데이터 증가에 따른 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 예상 용량 증가를 충족하는 권장 사항을 제시하며 자산 구성에 가장 적합합니다. 용량 여유 공간을 확보하기 위해 콜드 데이터를 클라우드 스토리지에 계층화하도록 권장한 것 중 하나가 될 수 있습니다. 이 권장 사항으로 인해 다른 BlueXP 서비스인 NetApp Cloud Tiering에 연결이 시작됩니다.</block>
+  <block id="ea29270a68ffb033810e16bff4b5fd66" category="paragraph">BlueXP의 경제적 효율성은 예상 데이터 증가에 따른 권장 사항을 제공합니다. 예측을 수락하거나 자체 예측을 입력할 수 있습니다. 이 서비스를 통해 예상 용량 증가를 충족하는 권장 사항을 제시하고 스토리지 자산 구성에 가장 적합합니다. 용량 여유 공간을 확보하기 위해 콜드 데이터를 클라우드 스토리지에 계층화하도록 권장한 것 중 하나가 될 수 있습니다. 이 권장 사항은 또 다른 BlueXP 서비스인 NetApp BlueXP 계층화(Cloud Tiering)에 대한 연결을 시작합니다.</block>
+  <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">여기에서 데이터를 계층화하여 BlueXP의 경제적 효율로 쉽게 되돌아가 다른 시스템에 대한 조치를 취할 수 있습니다.</block>
+  <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">BlueXP의 경제적 효율성은 BlueXP 계층화 서비스에 대한 연결을 시작합니다.</block>
+  <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">Connector를 구축한 후 BlueXP 계층화는 아직 검색되지 않은 클러스터를 검색합니다.</block>
+  <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">BlueXP 계층화 설명서</block>
+  <block id="5b4267b046db5f03341b553b4e3771d1" category="paragraph">계층화에 대한 자세한 내용은 을 참조하십시오<block ref="8eeb1fb0bf24f398f46bcf8e1cd7fe0b" category="inline-link-rx"></block>.</block>
+  <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">현재 환경의 스토리지 자산이 90% 용량의 임계값 미만이거나 이를 초과할 것으로 예측되는 경우, 경제적인 효율성 서비스를 통해 해당 자산을 저용량 리소스로 식별하여 경고를 표시합니다. 또한 경제적 효율성 서비스는 데이터를 계층화할지 또는 추가 용량을 확보해야 하는지에 대한 권장 사항을 제공합니다.</block>
+  <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">용량 추가</block>
+  <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">* 용량 추가 *: 계속 <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>.</block>
+  <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">콜드 데이터를 클라우드 스토리지에 계층화하고 스토리지를 확보합니다</block>
+  <block id="47141754b699410733fa9410d0da24bd" category="list-text">* 계층 콜드 데이터 *: 계속 <block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block>.</block>
+  <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">작업 없음 선택 및 다시 확인할 알림 설정</block>
+  <block id="58a0e9ebd5e083225a07bd151e8177e1" category="list-text">* 필요한 조치 없음 *: 계속 <block ref="6ab97855d646364f9472f51352902b2e" category="inline-link-macro-rx"></block>.</block>
+  <block id="be927a0c7de9e9a4deadb896c66cc674" category="sidebar">BlueXP의 새로운 경제 효율성</block>
+  <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">BlueXP의 경제적 효율성에 로그인합니다</block>
+  <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">BlueXP의 경제적 효율성을 활용합니다</block>
+  <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP 경제적 효율성 문서</block>
 </blocks>

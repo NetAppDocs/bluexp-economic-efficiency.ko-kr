@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
-keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: '경제적인 효율성 서비스는 현재 또는 예상 용량이 낮은 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.' 
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
+summary: 'BlueXP의 경제적 효율성은 현재 또는 예상되는 낮은 용량의 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.' 
 ---
 = 새로운 기능
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: '경제적인 효율성 서비스는 현재 또는 예상 용량이 낮
 
 
 [role="lead"]
-경제적 효율성 서비스의 새로운 기능에 대해 알아보십시오.
+BlueXP의 새로운 경제 효율성에 대해 알아보십시오.
 
 
 
 == 2023년 4월 2일
 
-새로운 경제 효율성 서비스는 현재 또는 예상되는 낮은 용량의 스토리지 자산을 식별하고 데이터 계층화에 대한 권장 사항이나 사내 AFF 시스템의 추가 용량을 제공합니다.
+새로운 BlueXP 경제적 효율성 서비스는 현재 또는 예상되는 낮은 용량의 스토리지 자산을 식별하고 사내 AFF 시스템의 데이터 계층화 또는 추가 용량에 대한 권장 사항을 제공합니다.
 
-link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["이 새로운 서비스에 대해 자세히 알아보십시오"].
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["BlueXP의 경제적 효율성에 대해 자세히 알아보십시오"].

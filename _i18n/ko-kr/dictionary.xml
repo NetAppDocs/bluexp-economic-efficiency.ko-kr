@@ -313,7 +313,6 @@
   <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP의 경제적 효율성</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP의 경제적 효율성을 높이십시오.</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP 경제적 효율성 전제 조건</block>
-  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">Blue 경제적 효율성을 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">BlueXP의 서비스에 액세스하여 BlueXP의 경제적 효율성을 시작하십시오.</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">BlueXP의 경제적 효율성에 액세스합니다</block>
   <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP 경제적 효율성 서비스는 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.</block>
@@ -359,4 +358,5 @@
   <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">BlueXP의 경제적 효율성에 로그인합니다</block>
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">BlueXP의 경제적 효율성을 활용합니다</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP 경제적 효율성 문서</block>
+  <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">BlueXP의 경제적 효율성을 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
 </blocks>

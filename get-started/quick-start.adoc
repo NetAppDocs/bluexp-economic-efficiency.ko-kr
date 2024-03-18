@@ -27,7 +27,7 @@ link:../get-started/capacity-setup.html["서비스 설정 단계를 완료합니
 서비스를 설정한 후 수행할 수 있는 작업은 다음과 같습니다.
 
 [role="quick-margin-list"]
-* link:../use/tech-refresh.html["기술 업데이트 평가를 받으십시오"].
+* link:../use/tech-refresh.html["기술 업데이트 평가를 실시하거나 새 하드웨어에서 워크로드를 시뮬레이션하십시오"].
 * link:../use/capacity-review-status.html["용량 계획 상태를 검토합니다"].
 * link:../use/capacity-add.html["용량 추가"].
 * link:../use/capacity-tier-data.html["콜드 데이터를 클라우드 스토리지에 계층화하여 스토리지 확보"].

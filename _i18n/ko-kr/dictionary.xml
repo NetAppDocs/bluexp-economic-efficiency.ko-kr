@@ -84,7 +84,6 @@
   <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">콜드 데이터를 클라우드 스토리지에 계층화하여 스토리지 확보</block>
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">필요에 따라 다시 확인하도록 미리 알림을 설정합니다</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">CPU 활용률, IOPS 성능, 지연 시간 성능을 검토하여 용량 개선 기회를 결정합니다.</block>
-  <block id="73392ce9486f187520554de1730eae2e" category="paragraph">서비스는 * Governance * 범주의 BlueXP에서 액세스할 수 있습니다.</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">추가 용량을 얻기 위한 간단한 프로세스를 제공합니다</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">추가 스토리지 계획에 소요되는 시간을 단축합니다</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
@@ -117,8 +116,6 @@
   <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">BlueXP 커뮤니티에 가입하여 진행 중인 토론을 팔로우하거나 새 토론을 만드십시오.</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">문서화</block>
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">현재 보고 있는 BlueXP 문서입니다.</block>
-  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto:ng-cloudmanager-feedback@netapp.com [피드백 이메일]</block>
-  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">저희는 귀하의 의견을 소중하게 생각합니다. BlueXP 개선에 도움이 되는 피드백을 제출하십시오.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">NetApp Support로 케이스 생성</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위의 자체 지원 옵션 외에도 NetApp 지원 전문가와 협력하여 지원을 활성화한 이후의 모든 문제를 해결할 수 있습니다.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">시작하기 전에</block>
@@ -176,7 +173,6 @@
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">파트너 또는 리셀러 계정이 있는 경우 NSS 계정을 하나 이상 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">도움말 메뉴의 스크린샷으로, 여기에서 지원은 첫 번째 옵션입니다</block>
-  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp은 Microsoft Azure Active Directory를 지원 및 라이선싱과 관련된 인증 서비스의 ID 공급자로 사용합니다.</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">로그인 페이지에서 인증 프로세스를 수행할 수 있도록 NetApp Support 사이트의 등록 이메일 주소와 암호를 제공합니다.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">이러한 작업을 통해 BlueXP는 NSS 계정을 사용하여 라이선스 다운로드, 소프트웨어 업그레이드 확인 및 향후 지원 등록과 같은 작업을 수행할 수 있습니다.</block>
   <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS 계정은 고객 수준 계정이어야 합니다(게스트 또는 임시 계정이 아님). 여러 개의 고객 수준 NSS 계정을 가질 수 있습니다.</block>
@@ -238,8 +234,6 @@
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 네트워킹 정보</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">사용 중인 환경에서 용량이 낮은 스토리지 자산을 식별합니다.</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">현재 및 예상 용량에 대한 자산을 검토합니다.</block>
-  <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">용량 계획은 시스템의 용량 부족으로 인한 불필요한 다운타임을 방지하는 데 필수적입니다. BlueXP의 경제적 효율성은 낮은 용량을 보이는 클러스터를 식별하고, 현재 및 예상 용량에 대한 클러스터를 검토하고, CPU 활용률, IOPS 성능 및 지연 시간 성능을 검토하여 용량 개선 기회를 파악하는 데 도움이 됩니다.</block>
-  <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP의 경제적 효율성</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP의 경제적 효율성을 높이십시오.</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP 경제적 효율성 전제 조건</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">BlueXP의 서비스에 액세스하여 BlueXP의 경제적 효율성을 시작하십시오.</block>
@@ -360,55 +354,125 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">클라우드 공급자의 파일 서비스에 대한 지원을 받습니다</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">클라우드 공급자의 파일 서비스, 자체 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 BlueXP 설명서에서 "도움말 얻기"를 참조하십시오.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXP 및 해당 스토리지 솔루션 및 서비스에 관한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
-  <block id="f0e817cb84a49a26db71d640356019f4" category="inline-link-macro">기술 업데이트 평가를 받으십시오</block>
-  <block id="ac97b132749b374b068a120e488fcd0e" category="list-text"><block ref="858757337543e4b0b3edb61576007bac" category="inline-link-macro-rx"></block>.</block>
   <block id="e5871941005696021ad600fa37da85f1" category="summary">BlueXP 경제적 효율성 서비스는 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다. 또한 수명이 거의 다 된 시스템에 대한 기술 업데이트 권장 사항을 제공합니다.</block>
   <block id="04d4502244c1b78fc398e2ab854757d1" category="paragraph">BlueXP의 경제적 효율성은 환경의 두 가지 핵심 영역, 즉 현재 또는 예상되는 용량이 낮은 스토리지 자산과 수명이 거의 다하고 있는 시스템을 평가합니다. 이 서비스는 비즈니스 요구사항을 충족하는 데이터 계층화 또는 추가 용량(AFF 시스템의 경우) 및 기술 업데이트 옵션에 대한 권장사항을 제공합니다.</block>
   <block id="c5eed8523c59be7e7055502368d7c8c9" category="paragraph">BlueXP의 경제적 효율성은 다음과 같은 목표를 달성하는 데 도움이 될 수 있습니다.</block>
   <block id="9875b19dee665bb875b719b9e9ae8af9" category="paragraph">* 용량 계획 *</block>
   <block id="a75c21b3028c89c7a9ba2ea318233515" category="list-text">사용자 환경과 관련된 용량 확장에 대한 권장 사항을 확인합니다.</block>
   <block id="b4b8b4721f6971106929030c2ebeed9e" category="paragraph">BlueXP의 경제적 효율성 용량 계획은 온프레미스 AFF 시스템에만 적용됩니다(통합 AFF 및 모든 SAN 어레이 시스템 포함).</block>
-  <block id="72437c9f19c075990b00e9de0e1a44b8" category="paragraph">* 기술 리프레시 평가 *</block>
   <block id="b8f192587f9fb6aabeab974d20b80bb3" category="list-text">수명이 거의 끝나거나 다른 수명 주기 이벤트에 근접하는 시스템 목록을 검토합니다.</block>
   <block id="9d32ad95cd61231af88e0c366f0ded5f" category="list-text">현재 작업 환경 평가를 검토하여 워크로드, 용량, 성능 및 예산 요구사항에 맞는 기술 업데이트 옵션에 대한 권장사항을 확보합니다.</block>
   <block id="c75d78ac539015a339e4aa9720ca729e" category="inline-image-macro">BlueXP의 경제적 효율성이라는 기술 업데이트 프로세스의 다이어그램</block>
   <block id="c814cc88c080268f66afab5af1deb9d4" category="paragraph"><block ref="c814cc88c080268f66afab5af1deb9d4" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">라이프사이클 이벤트가 다가오는 시스템을 식별하여 기술 업데이트를 계획합니다</block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">고객 환경의 용량 문제를 해결하기 위한 신뢰할 수 있는 조언자 권장 사항을 제공합니다</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp은 서비스 사용에 대한 비용을 부과하지 않습니다.</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">클라우드 스토리지에 콜드 데이터를 계층화하려는 경우 클라우드 공급자에게 해당 비용이 청구되는지 확인해야 합니다.</block>
-  <block id="a456de5363786e290113dc87be0d8c89" category="summary">기존 자산이 있고 기술 업데이트의 권장 여부를 확인하기 위해 평가를 받으려면 BlueXP의 경제적 효율성 기술 업데이트 옵션을 사용할 수 있습니다. 이 프로세스는 현재 워크로드 및 자산을 평가하고 진행 방법에 대한 권장사항을 제공합니다.</block>
   <block id="d596892095124cd33de259bb9c6d8bdf" category="doc">기술 업데이트 평가를 받으십시오</block>
   <block id="a6babd905f3ba163c4818f3a71e85280" category="paragraph">이 평가에는 다음 단계가 포함됩니다.</block>
   <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">평가할 시스템을 선택합니다.</block>
   <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">환경, 워크로드 유형, 용량, 성능 및 예산에 관한 요구사항을 지정하십시오.</block>
   <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">귀사의 환경에서 성능을 개선할 수 있는 적절한 제품 및 클라우드 서비스와 관련된 권장사항을 살펴보십시오.</block>
   <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">시스템은 다음을 기반으로 기술 업데이트 후보로 간주됩니다.</block>
-  <block id="ecc292589422afcc5886b7e41ad68c72" category="list-text">기술 지원 계약이 곧 종료됩니다</block>
-  <block id="af71bdeef415b1f9cee59f7f1b98cfef" category="list-text">하드웨어 수명 주기가 곧 종료됩니다</block>
   <block id="251ce3e9a0f2e743c16cf6745026684a" category="list-text">BlueXP 왼쪽 탐색 창에서 * Governance * &gt; * Economic Efficiency * &gt; * Tech Refresh * 를 선택하십시오.</block>
   <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">기술 업데이트 후보 탭이 표시된 기술 업데이트 페이지</block>
-  <block id="b19b7d4fec83433fb774ae9faa3d69f6" category="paragraph"><block ref="b19b7d4fec83433fb774ae9faa3d69f6" category="inline-image-macro-rx" type="image"></block></block>
   <block id="2a83e88bfd3a6df19edf7074fdf74aa8" category="list-text">기술 업데이트를 통해 혜택을 받을 수 있는 모든 작업 환경이 나열된 * 기술 업데이트 후보 * 탭을 살펴보십시오.</block>
   <block id="47215b09178bb5c93fdb16f794a46de0" category="list-text">평가를 받으려는 작업 환경을 선택합니다.</block>
-  <block id="43f608e701fb6e458b2c54b8218f2030" category="list-text">오른쪽에서 * 새로 고침 평가 * 를 선택합니다.</block>
-  <block id="eb543771e4455ef8aaf16ef1ec6b98c1" category="list-text">새로 고침 평가 옵션에서 * 평가 받기 * 를 선택합니다.</block>
   <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">평가를 수행할 시스템을 하나 이상 선택하고 * 다음 * 을 선택합니다.</block>
-  <block id="c80e774876c4181d84849cf05a456feb" category="list-text">퍼블릭 클라우드, 하이브리드 클라우드 또는 온프레미스 등 원하는 환경 유형을 선택합니다.</block>
-  <block id="cd1d14c41390ca02836f8796ad882779" category="list-text">비즈니스 크리티컬 애플리케이션, 데이터 레이크 및 미디어 워크플로우, 2차 스토리지, 중요하지 않은 워크로드, 고성능 분석 및 컴퓨팅 등 처리할 워크로드 유형을 모두 선택하십시오.</block>
-  <block id="4f365c7c2e83cd4835500fe229245f49" category="list-text">용량 요구 사항을 TiB 단위로 입력하고 슬라이더를 값으로 밀거나 슬라이더의 값에 커서를 놓고 * Next * 를 선택합니다.</block>
-  <block id="c405cc8fb6aeff71a00dc67a5c45e8bb" category="list-text">처리할 수 있는 성능 측면을 선택하십시오. 최저 지연 시간, 최고 IOPS, 혼합 워크로드 또는 성능 중요하지 않음 등을 선택한 후 * 다음 * 을 선택하십시오.</block>
-  <block id="ad48853148bed59c232afb2557695a4a" category="list-text">미국 달러로 예산을 입력하거나 슬라이더를 값으로 밀거나 슬라이더의 값에 커서를 놓고 * 다음 * 을 선택합니다.</block>
   <block id="27fc8e6d0827e3065fe50dd710023bf2" category="paragraph">선택한 옵션에 대한 권장 사항 집합이 여러 탭에 표시됩니다.</block>
   <block id="ee45c26f52faad8357038bfc28072aef" category="list-text">권장 사항을 검토합니다.</block>
   <block id="3369d572efb7971966d65671e9a87c83" category="list-text">권장 사항의 PDF를 다운로드하려면 * 다운로드 * 를 선택합니다.</block>
-  <block id="c8f18e923447016bf04be2ef9ff734e6" category="list-text">권장 사항과 관련하여 NetApp 영업 담당자와 연결하려면 * 세일즈 팀에 문의 * 를 선택하십시오.</block>
-  <block id="867f3f4db8b8a564320a00c8fe1f8bb8" category="paragraph">NetApp 영업 담당자에게 문의하기 위해 선택할 수 있는 옵션이 웹 페이지에 표시됩니다.</block>
   <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">이미 수행된 기술 업데이트 평가를 봅니다</block>
   <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">이미 수행한 기술 업데이트 평가를 검토하고 권장사항을 다시 검토할 수 있습니다.</block>
-  <block id="56a152189b75153e4f0f874e3d9c9457" category="list-text">기술 업데이트 평가를 수행한 모든 시스템이 나열된 * 기술 업데이트 후보 * 탭을 선택합니다. 그런 다음 행에서 * View action * 을 선택하여 해당 시스템에 대한 평가 및 권장 사항을 확인합니다.</block>
-  <block id="f248060618ab5de89770d8ca2f297946" category="paragraph">또는 "Action Take(조치 수행)"가 표시되는 행을 선택하고 * View * 를 선택하여 해당 시스템의 세부 정보를 확인합니다.</block>
   <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">새로 고침 권장 사항을 봅니다.</block>
   <block id="41e96c41b82196674a6b6c99d0c0b8ad" category="section-title">2023년 11월 8일</block>
   <block id="c4cd570753ca79cf809d24d7723c0e82" category="paragraph">이번 BlueXP의 경제적 효율성 릴리즈에는 자산을 평가하고 기술 업데이트가 권장되는지 여부를 확인할 수 있는 새로운 옵션이 포함되어 있습니다. 이 서비스에는 왼쪽 탐색 창에 있는 새로운 기술 업데이트 옵션, 현재 워크로드와 자산을 평가할 수 있는 새 페이지, 권장사항이 있는 보고서가 포함되어 있습니다.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp는 지원 및 라이센스와 관련된 인증 서비스의 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
+  <block id="d14c9f16849819a9f636da7ac361ff22" category="summary">기존 자산이 있고 기술 업데이트의 권장 여부를 확인하기 위해 평가를 받으려면 BlueXP의 경제적 효율성 기술 업데이트 옵션을 사용할 수 있습니다. 이 프로세스는 현재 워크로드 및 자산을 평가하고 진행 방법에 대한 권장사항을 제공합니다. 또는 워크로드 시뮬레이션을 시도할 수 있습니다.</block>
+  <block id="33a9c4b5f0c522c38ff9b1b46ebd1498" category="doc">기술 업데이트를 평가합니다</block>
+  <block id="5ac035629d66a48b86400168272fb788" category="paragraph">기존 자산이 있고 기술 업데이트가 필요한지 여부를 판단하려면 BlueXP의 경제적 효율성 기술 업데이트 옵션을 사용할 수 있습니다. 현재 워크로드에 대한 간단한 평가를 검토하여 추천을 하거나 지난 90일 이내에 AutoSupport 로그를 NetApp에 보낸 경우 워크로드 시뮬레이션을 제공하여 새로운 하드웨어에서 워크로드의 성능을 확인할 수 있습니다.</block>
+  <block id="c1df900b707f6cd8b297fcefd8af961c" category="list-text"><block ref="3bb80309ab3efc46643e12a3c466df63" category="inline-xref-macro-rx"></block></block>
+  <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
+  <block id="86602ed92a03b859038bb7756a757229" category="list-text">기술 지원 계약 종료가 다가오고 있습니다</block>
+  <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">하드웨어 수명 주기의 끝</block>
+  <block id="e58668930cccc759b3f2b6fda381ee68" category="admonition">이 기능은 BlueXP의 경제적 효율성 또는 NetApp Digital Advisor를 통해 액세스할 수 있습니다.</block>
+  <block id="9a99f963e31049c789d353216d6aa4ce" category="section-title">새로 고침 평가를 받으십시오</block>
+  <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">기술 업데이트 후보가 표시된 기술 업데이트 페이지</block>
+  <block id="1e7afb39626c91b21e07933d8a4a6e4e" category="paragraph"><block ref="1e7afb39626c91b21e07933d8a4a6e4e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f72458015275b72478d3c8356aa2a853" category="list-text">Actions 열에서 * Evaluate refresh * 를 선택합니다.</block>
+  <block id="41dd9cb81e846a2b92ce0dc8d3bab0f4" category="inline-image-macro">기술 업데이트에 포함될 시스템</block>
+  <block id="ee37d63f7086468bf9d7a51a647d233a" category="paragraph"><block ref="ee37d63f7086468bf9d7a51a647d233a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="806dd078b829587301ef35da4ff329f4" category="list-text">요구 사항 정의:</block>
+  <block id="097e04f6385b45e9e5eb37d62ff925b9" category="list-text">* 환경 *: 퍼블릭 클라우드, 하이브리드 클라우드 또는 온프레미스 등 원하는 환경 유형을 선택하십시오.</block>
+  <block id="b6b10bd24bddb16fc0121f5a5567474e" category="inline-image-macro">제품 교체 요구 사항 페이지에서 환경 선택 사항을 확인할 수 있습니다</block>
+  <block id="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="paragraph"><block ref="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f0d5a5bcec2b02dc4f30e9cac55af1ef" category="list-text">* 워크로드 *: 비즈니스 크리티컬 애플리케이션, 고성능 분석 및 컴퓨팅, 데이터 레이크 및 미디어 워크플로, 2차 스토리지, 덜 중요한 워크로드 등 처리하려는 모든 워크로드 유형을 선택하십시오.</block>
+  <block id="6f29ee9b7199fc42e3e35abdfdbe7825" category="inline-image-macro">워크로드 선택 가능</block>
+  <block id="f2a5b15c77282cbeff7cf30606c436fa" category="paragraph"><block ref="f2a5b15c77282cbeff7cf30606c436fa" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9384757b4887b81990a846f0dce0ad71" category="list-text">* 용량 *: 용량 요구 사항을 TiB 단위로 입력하고 슬라이더를 값으로 밀거나 슬라이더의 값에 커서를 놓고 * 다음 * 을 선택합니다.</block>
+  <block id="fbd5cc32604603614a43f9a8bd0a1602" category="list-text">* 성능 *: 최단 지연 시간, 최고 IOPS, 혼합 워크로드 또는 중요하지 않은 성능 중 처리하고자 하는 성능 측면을 선택하고 * 다음 * 을 선택하십시오.</block>
+  <block id="0fc8dd400802744032cf5a3726d3ed48" category="inline-image-macro">성능 선택</block>
+  <block id="4995e6732d45492019b191ec33b68907" category="paragraph"><block ref="4995e6732d45492019b191ec33b68907" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f8dccf96be3755c833f55e6cef8d52f8" category="list-text">*예산*: 미국 달러로 예산을 입력하거나 슬라이더를 값으로 밀거나 슬라이더의 값에 커서를 놓고 * 다음 * 을 선택합니다.</block>
+  <block id="d1efeae1891322c753da8b9fec43a0c4" category="inline-image-macro">새로 고침 평가 권장 사항 페이지를 봅니다</block>
+  <block id="dd6e2e89aa52b572824d6df4354282f9" category="paragraph"><block ref="dd6e2e89aa52b572824d6df4354282f9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="aaa33f8f70892c4be13e973507f01284" category="list-text">다음 중 하나 또는 모두를 실행합니다.</block>
+  <block id="778c1b7029a1912f763bb976dd5e31f2" category="list-text">권장 사항과 관련하여 NetApp 영업 담당자와 연결하려면 * 세일즈 팀에 문의 * 를 선택하십시오. 웹 페이지에는 NetApp 영업 담당자에게 문의하기 위해 선택할 수 있는 옵션이 표시됩니다.</block>
+  <block id="560e42e6da9452e07ba03414df4da014" category="list-text">마침 * 을 선택합니다.</block>
+  <block id="cfdbfc3f5dc775fe2319a5021b966ab5" category="list-text">기술 업데이트 평가를 수행한 모든 시스템이 나열된 * 기술 업데이트 후보 * 탭을 선택합니다. 그런 다음 해당 시스템의 행에 있는 Actions(작업) 메뉴에서 을 선택하여 해당 시스템의 평가 및 권장 사항을 봅니다.</block>
+  <block id="94750197e906cc2c9191e06c19bbb219" category="list-text">새로 고침 옵션 평가 페이지에서 * 권장 사항 보기 * 를 선택합니다.</block>
+  <block id="a56822a7ed8b771ff664c8a2c312313d" category="section-title">새 하드웨어에서 작업 부하를 시뮬레이션합니다</block>
+  <block id="1b72528e20ead2d97bbb081bc17dd1f5" category="paragraph">지난 90일 이내에 AutoSupport 로그를 NetApp에 전송한 경우, NetApp에서 시뮬레이션을 제공하여 새로운 하드웨어에서 워크로드가 작동하는지 확인할 수 있습니다.</block>
+  <block id="1f82c319eafb82533c3039aa2fc758a1" category="paragraph">시뮬레이션에서 특정 워크로드를 포함하거나 제외할 수 있습니다. 기존 작업 부하 목록에 나타나지 않는 작업량을 추가할 수도 있습니다.</block>
+  <block id="ea1f2682b580a987049be53745fb1a38" category="paragraph"><block ref="ea1f2682b580a987049be53745fb1a38" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="866d2063657c0dc4b4f64e3a2328610d" category="list-text">작업 열에서 * 새로 고침 평가 * 를 선택합니다.</block>
+  <block id="a2bd67241a1f99044561e870dc051701" category="admonition">이 서비스는 시뮬레이션을 준비하기 위해 작업 부하 세부 정보를 가져옵니다.</block>
+  <block id="bd3c9da01d9261aa3a93e740620c99a3" category="inline-image-macro">요구 사항 옵션을 보여 주는 워크로드 시뮬레이션 페이지</block>
+  <block id="3a7a8406bfae0f207e8a2d6b8583f23c" category="paragraph"><block ref="3a7a8406bfae0f207e8a2d6b8583f23c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a4e53dfb27100d4453da0662b9f64509" category="list-text">워크로드 시뮬레이션 &gt; 워크로드 요구사항 페이지에서 다음을 수행합니다.</block>
+  <block id="1b4ca7f0b9b2476c4e6c29d42caca948" category="list-text">목록에 없는 워크로드를 추가하려면 * 워크로드 추가 * 를 선택합니다. 자세한 내용은 을 참조하십시오 <block ref="6d687ea8f3e00c0c7e5186f4595438ae" category="inline-xref-macro-rx"></block>.</block>
+  <block id="f490f6fc8d91e7f5ef2131cba343992a" category="list-text">* IOPS *: 필요에 따라 새 하드웨어에 원하는 IOPS를 변경합니다.</block>
+  <block id="f41128c05efbb759f8474126789c0f47" category="list-text">* 용량(TiB) *: 필요에 따라 새 하드웨어에 사용할 용량을 변경합니다.</block>
+  <block id="e06fc5134e6dcc27d1d3a9c1c7b81762" category="list-text">워크로드를 제외하려면 작업 열에서 * 시뮬레이션에서 워크로드 제외 * 옵션을 선택합니다.</block>
+  <block id="ed5412b57235dc91df9b3a469663c841" category="admonition">이전에 제외된 워크로드를 포함하려면 * 제외된 워크로드 * 탭을 선택하고 * 시뮬레이션에 워크로드 포함 * 옵션을 선택합니다.
+... 다음 * 을 선택합니다.</block>
+  <block id="98b49be109051ae05853cc9bf04cf1f4" category="list-text">구성 페이지에서 새 하드웨어에 대한 시뮬레이션 결과를 검토합니다.</block>
+  <block id="f31d77cf6170bdf60e97f36b2c4f76a8" category="inline-image-macro">시뮬레이션 결과를 보여 주는 워크로드 시뮬레이션 페이지</block>
+  <block id="4e1bdf386c1b043d84adedd9f658ac8f" category="paragraph"><block ref="4e1bdf386c1b043d84adedd9f658ac8f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="79535c026c0bb22f2b3c8d61fbb08bc9" category="admonition">최상의 권장 사항은 "최고" 표시로 표시됩니다.</block>
+  <block id="a659c87a2a01001dd1f5e5afdbbfc6da" category="list-text">권장 사항과 관련하여 NetApp 영업 담당자와 연락하려면</block>
+  <block id="619f49fb1cba24462e3360cdc2291026" category="list-text">연락처 * 를 선택합니다.</block>
+  <block id="cd9d83eb56c67a4bed881046405808c0" category="list-text">연락처 세부 정보를 입력합니다.</block>
+  <block id="5c65d3d7b5dede3b7b2861d401c3e2b2" category="list-text">NetApp 영업 담당자를 위한 특별 메모를 추가합니다.</block>
+  <block id="359c274a837b4efa363f0727671ab1ed" category="list-text">확인 및 제출 * 을 선택합니다.</block>
+  <block id="3a77b8d1967fa6a55531f5e8ad71fdf7" category="paragraph">워크로드 시뮬레이션의 권장 사항은 NetApp 영업 담당자에게 전송됩니다. 권장 사항을 확인하는 이메일도 받게 됩니다. 귀하의 요청에 NetApp 영업 담당자가 응답합니다.</block>
+  <block id="809b80ce5e4316dd14aedcc74561092f" category="section-title">워크로드를 추가합니다</block>
+  <block id="bad77863da577d4936af240586679ff2" category="paragraph">아직 나열되지 않은 워크로드를 워크로드 시뮬레이션에 추가할 수 있습니다.</block>
+  <block id="5ff63883dd1765c0e66ae3a76cd759c4" category="list-text">작업 환경을 선택합니다.</block>
+  <block id="8ea1f54d2235c0f21408896335f47e8f" category="list-text">워크로드 시뮬레이션 &gt; 워크로드 요구사항 페이지에서 * 워크로드 추가 * 를 선택합니다.</block>
+  <block id="20866c393314c6f5280ccdbcd2984185" category="inline-image-macro">워크로드 페이지를 추가합니다</block>
+  <block id="f8aee05bb242597c2f3152f62d15cab9" category="paragraph"><block ref="f8aee05bb242597c2f3152f62d15cab9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="771a08a10564b90f92464088d5030fa9" category="list-text">애플리케이션을 선택하고 워크로드 이름을 입력한 다음 워크로드 크기를 선택합니다.</block>
+  <block id="5723e79aadeee69091be4cb7f55ef0e9" category="list-text">워크로드의 예상 용량 및 성능 값을 입력합니다.</block>
+  <block id="ac59f662241c026643fe3610a6c1dae5" category="admonition">워크로드 크기를 작게, 보통 또는 IO를 많이 사용하는 워크로드 크기로 선택한 경우 기본값이 나타납니다.</block>
+  <block id="28a3d4238c0846b126310cbfebfcffda" category="list-text">필요한 경우 고급 옵션 화살표를 선택하고 다음 정보의 기본값을 변경합니다.</block>
+  <block id="a721dca76e5313035a71553b91c23b39" category="list-text">* 스토리지 효율성 *: 일반적인 데이터 축소율은 2:1일 수 있습니다.</block>
+  <block id="f6a6729c8c1f908586e603d1161a33c2" category="list-text">* 임의 읽기 % *: 랜덤 읽기의 일반적인 평균 IO 크기는 16K입니다.</block>
+  <block id="e3ff8d47ac99eb785976344b6a561a44" category="list-text">* 순차적 읽기 % *: 일반적인 읽기 패턴은 50% 랜덤 및 50% 순차적 입니다.</block>
+  <block id="49631ed94494467c16d7f4535454538a" category="list-text">* 랜덤 쓰기 % *: 랜덤 쓰기의 일반적인 평균 IO 크기는 32K입니다.</block>
+  <block id="3a49eb6b3b1b81f28bf0fe6e92c60f3f" category="list-text">* 순차적 쓰기 % *: 일반적인 쓰기 패턴은 50% 랜덤 및 50% 순차적 쓰기 패턴입니다.</block>
+  <block id="bd43fc9501d9e9ddb964eda155be38b8" category="section-title">2024년 3월 14일</block>
+  <block id="2910a4560c79f740cc97d113def24905" category="paragraph">기존 자산이 있고 기술을 업데이트해야 하는지 여부를 확인하려면 BlueXP의 경제적 효율성 기술 업데이트 옵션을 사용할 수 있습니다. 현재 워크로드에 대한 간단한 평가를 검토하여 추천을 하거나 지난 90일 이내에 AutoSupport 로그를 NetApp에 보낸 경우, 이제 워크로드 시뮬레이션을 제공하여 새로운 하드웨어에서 워크로드가 어떻게 수행되는지 확인할 수 있습니다.</block>
+  <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">또한 워크로드를 추가하고 기존 워크로드를 시뮬레이션에서 제외할 수 있습니다.</block>
+  <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">이전에는 자산을 평가하고 기술 업데이트가 필요한지 여부만 파악할 수 있었습니다.</block>
+  <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">이 기능은 이제 왼쪽 탐색 창의 Tech Refresh 옵션에 포함됩니다.</block>
+  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">에 대해 자세히 알아보십시오 <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
+  <block id="125b544edea581d53f2d48e24eca22a1" category="inline-link-macro">기술 업데이트 평가를 실시하거나 새 하드웨어에서 워크로드를 시뮬레이션하십시오</block>
+  <block id="cfdddd9fdda3a6c9edb8d92e163f706e" category="list-text"><block ref="85216510d035cb29818c638561cda6b0" category="inline-link-macro-rx"></block>.</block>
+  <block id="e581a5d8d5f03d5e44c9b34c7a287331" category="paragraph">* 기술 갱신 평가 및 시뮬레이션 *</block>
+  <block id="ab59f1058d018fe7c2ab12c567b827c5" category="list-text">새 하드웨어에서 작업 부하 시뮬레이션을 수행하고 결과를 다운로드합니다.</block>
+  <block id="c010d313c84aa7576715aeca465e02ba" category="list-text">간단한 평가를 실시하거나 새 하드웨어에 대한 워크로드 시뮬레이션을 수행하여 라이프사이클 이벤트가 다가오고 있는 시스템을 식별하여 기술 업데이트를 계획할 수 있습니다</block>
+  <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">액세스</block>
+  <block id="9087f29454392d1114832868ba710775" category="paragraph">이 기능은 BlueXP의 경제 효율성( * 거버넌스 * &gt; * 경제적 효율성 * &gt; * 기술 업데이트 *) 또는 NetApp 디지털 자문( * 대시보드 * &gt; * 계획 위젯 * &gt; * 기술 업데이트 *)을 통해 액세스할 수 있습니다.</block>
+  <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP의 경제적 효율성 문서</block>
+  <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">기술 업데이트를 평가합니다</block>
 </blocks>

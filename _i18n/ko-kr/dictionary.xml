@@ -69,7 +69,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">저장 * 을 선택합니다.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">이 시간이 경과되면 위험 목록에 위험이 다시 나타납니다.</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">운영 환경, 로그인, 네트워크 액세스 및 웹 브라우저의 준비 상태를 확인하여 시작하십시오.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">사용자 환경은 웹 브라우저에서 로그인 및 네트워크 액세스를 포함한 모든 BlueXP 요구 사항을 충족해야 합니다.</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">클러스터에 대한 액세스 자격 증명이 있어야 합니다.</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">요구 사항은 아니지만 BlueXP 커넥터가 설치되어 있고 활성화되어 있고 ONTAP 시스템이 검색되면 도움이 됩니다. 그렇지 않은 경우 이 서비스는 이러한 프로세스를 안내합니다.</block>
@@ -251,7 +250,6 @@
   <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">BlueXP의 경제적 효율성에 대해 자주 묻는 질문(FAQ</block>
   <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">BlueXP의 경제적 효율성 이용</block>
   <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">* BlueXP의 경제적 효율성을 사용하려면 라이센스가 필요합니까? *</block>
-  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXP의 경제적 효율성은 현재 또는 예상되는 낮은 용량의 자산을 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다.</block>
   <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">BlueXP의 새로운 경제 효율성에 대해 알아보십시오.</block>
   <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">새로운 BlueXP 경제적 효율성 서비스는 현재 또는 예상되는 낮은 용량의 스토리지 자산을 식별하고 사내 AFF 시스템의 데이터 계층화 또는 추가 용량에 대한 권장 사항을 제공합니다.</block>
   <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">BlueXP의 경제적 효율성에 대해 자세히 알아보십시오</block>
@@ -475,4 +473,5 @@
   <block id="9087f29454392d1114832868ba710775" category="paragraph">이 기능은 BlueXP의 경제 효율성( * 거버넌스 * &gt; * 경제적 효율성 * &gt; * 기술 업데이트 *) 또는 NetApp 디지털 자문( * 대시보드 * &gt; * 계획 위젯 * &gt; * 기술 업데이트 *)을 통해 액세스할 수 있습니다.</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP의 경제적 효율성 문서</block>
   <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">기술 업데이트를 평가합니다</block>
+  <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">먼저 운영 환경, 로그인 및 네트워크 액세스 준비 상태를 확인하십시오.</block>
 </blocks>

@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: get-started/intro.html 
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage 
-summary: 'BlueXP 경제적 효율성 서비스는 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다. 또한 수명이 거의 다 된 시스템에 대한 기술 업데이트 권장 사항을 제공합니다.' 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast 
+summary: BlueXP  경제적 효율성 서비스는 현재 또는 예상되는 용량이 낮은 클러스터를 식별하고 데이터 계층화에 대한 권장 사항을 제공합니다. 
 ---
 = BlueXP의 경제적 효율성에 대해 알아보십시오
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 'BlueXP 경제적 효율성 서비스는 현재 또는 예상 용량이
 
 
 [role="lead"]
-BlueXP의 경제적 효율성은 환경의 두 가지 핵심 영역, 즉 현재 또는 예상되는 용량이 낮은 스토리지 자산과 수명이 거의 다하고 있는 시스템을 평가합니다. 이 서비스는 비즈니스 요구사항을 충족하는 데이터 계층화 또는 추가 용량(AFF 시스템의 경우) 및 기술 업데이트 옵션에 대한 권장사항을 제공합니다.
+BlueXP 의 경제적 효율성은 현재 또는 예상되는 낮은 용량으로 스토리지 자산을 평가합니다. 이 서비스는 비즈니스 요구사항을 충족하는 데이터 계층화 옵션에 대한 권장사항을 제공합니다.
 
 BlueXP의 경제적 효율성은 다음과 같은 목표를 달성하는 데 도움이 될 수 있습니다.
 
@@ -20,20 +20,6 @@ BlueXP의 경제적 효율성은 다음과 같은 목표를 달성하는 데 도
 
 * 사용 중인 환경에서 용량이 낮은 스토리지 자산을 식별합니다.
 * 현재 및 예상 용량에 대한 자산을 검토합니다.
-* CPU 활용률, IOPS 성능, 지연 시간 성능을 검토하여 용량 개선 기회를 결정합니다.
-* 사용자 환경과 관련된 용량 확장에 대한 권장 사항을 확인합니다.
-
-
-BlueXP의 경제적 효율성 용량 계획은 온프레미스 AFF 시스템에만 적용됩니다(통합 AFF 및 모든 SAN 어레이 시스템 포함).
-
-* 기술 갱신 평가 및 시뮬레이션 *
-
-* 새 하드웨어에서 작업 부하 시뮬레이션을 수행하고 결과를 다운로드합니다.
-* 수명이 거의 끝나거나 다른 수명 주기 이벤트에 근접하는 시스템 목록을 검토합니다.
-* 현재 작업 환경 평가를 검토하여 워크로드, 용량, 성능 및 예산 요구사항에 맞는 기술 업데이트 옵션에 대한 권장사항을 확보합니다.
-+
-image:economic-efficiency-diagram-overview2.png["BlueXP의 경제적 효율성이라는 기술 업데이트 프로세스의 다이어그램"]
-
 
 
 
@@ -42,8 +28,7 @@ image:economic-efficiency-diagram-overview2.png["BlueXP의 경제적 효율성�
 
 BlueXP의 경제적 효율성은 다음과 같은 이점을 제공합니다.
 
-* 간단한 평가를 실시하거나 새 하드웨어에 대한 워크로드 시뮬레이션을 수행하여 라이프사이클 이벤트가 다가오고 있는 시스템을 식별하여 기술 업데이트를 계획할 수 있습니다
-* 추가 용량을 얻기 위한 간단한 프로세스를 제공합니다
+* 라이프사이클 이벤트가 다가오는 시스템을 식별하여 기술 업데이트를 계획합니다
 * 고객 환경의 용량 문제를 해결하기 위한 신뢰할 수 있는 조언자 권장 사항을 제공합니다
 * 추가 스토리지 계획에 소요되는 시간을 단축합니다
 

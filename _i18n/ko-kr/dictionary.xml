@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">또한 워크로드를 추가하고 기존 워크로드를 시뮬레이션에서 제외할 수 있습니다.</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">이전에는 자산을 평가하고 기술 업데이트가 필요한지 여부만 파악할 수 있었습니다.</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">이 기능은 이제 왼쪽 탐색 창의 Tech Refresh 옵션에 포함됩니다.</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">에 대해 자세히 알아보십시오 <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">액세스</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">이 기능은 BlueXP의 경제 효율성( * 거버넌스 * &gt; * 경제적 효율성 * &gt; * 기술 업데이트 *) 또는 NetApp 디지털 자문( * 대시보드 * &gt; * 계획 위젯 * &gt; * 기술 업데이트 *)을 통해 액세스할 수 있습니다.</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP의 경제적 효율성 문서</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Cloud Volumes ONTAP에서 다음과 같은 주요 워크플로우를 사용하려면 NetApp 지원 사이트 자격 증명을 BlueXP  조직과 연결해야 합니다.</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSS 자격 증명을 BlueXP  조직과 연결하는 것은 BlueXP  사용자 로그인과 연결된 NSS 계정과 다릅니다.</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">이러한 NSS 자격 증명은 특정 BlueXP  조직 ID와 연결됩니다. BlueXP  조직에 속한 사용자는 * 지원 &gt; NSS 관리 * 에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">기술 업데이트 옵션</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">에 대해 자세히<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block> 알아보십시오.</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">비활성화된 기능</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">BlueXP 의 경제적 효율성 소개</block>
 </blocks>

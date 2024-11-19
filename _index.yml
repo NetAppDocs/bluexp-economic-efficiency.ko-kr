@@ -22,8 +22,6 @@ indexpage:
       url: "/get-started/faq.html"
   - title: BlueXP의 경제적 효율성을 활용합니다
     links:
-    - title: 기술 업데이트 평가를 받으십시오
-      url: "/use/tech-refresh.html"
     - title: 용량 문제 검토 및 해결
       url: "/use/capacity-remediate-overview.html"
     - title: 용량 상태를 검토합니다

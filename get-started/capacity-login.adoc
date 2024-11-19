@@ -17,7 +17,7 @@ NetApp BlueXP를 사용하여 경제 효율성 서비스에 로그인할 수 있
 BlueXP에 로그인하려면 NetApp Support 사이트 자격 증명을 사용하거나 이메일 및 암호를 사용하여 NetApp 클라우드 로그인에 등록할 수 있습니다. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["로그인에 대해 자세히 알아보십시오"^].
 
 
-TIP: 이 기능은 BlueXP의 경제 효율성( * 거버넌스 * > * 경제적 효율성 * > * 기술 업데이트 *) 또는 NetApp 디지털 자문( * 대시보드 * > * 계획 위젯 * > * 기술 업데이트 *)을 통해 액세스할 수 있습니다.
+TIP: 이 기능은 BlueXP 의 경제 효율성(* 거버넌스 * > * 경제적 효율성 * > * 기술 업데이트 *) 또는 디지털 자문(* 대시보드 * > * 계획 위젯 * > * 기술 업데이트 *)을 통해 액세스할 수 있습니다.
 
 .단계
 . 웹 브라우저를 열고 로 이동합니다 https://console.bluexp.netapp.com/["BlueXP 콘솔"^].
